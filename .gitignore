@@ -1,2 +1,4 @@
 node_modules
-.gradle
+.gradle dist
+# Ignore Gradle build output directory
+build
